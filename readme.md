@@ -1,7 +1,8 @@
 # preset/superset
 ## Installation
+Ref:[https://hub.docker.com/r/apache/superset](https://hub.docker.com/r/apache/superset)
 
-`docker pull preset/superset`
+`docker pull preset/superset` # Don't need to pull docker images cause use docker run to get superset command
 
 `docker run -d -p 8080:8080 --name superset preset/superset`
 
