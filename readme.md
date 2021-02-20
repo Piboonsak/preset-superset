@@ -26,3 +26,6 @@ docker exec -it superset superset fab create-admin \
 
 ## SQLAlchemy 1.4 Documentation
 https://docs.sqlalchemy.org/en/14/core/engines.html#others
+
+
+## [Datalake architecture on cloud stack](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
